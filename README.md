@@ -1,0 +1,2 @@
+# khelai
+ This AI-powered web platform helps Indian households create personalized meal plans and recipe recommendations based on available ingredients, dietary preferences, health conditions, and allergies. Key features include:  ✅ AI-Generated Recipes 📜 ✅ Nutrition Breakdown & Meal Planning 🥦 ✅ Dietary & Health-Based Suggestions 🍎 ✅ Smart Ingredient-Based Search 🔍 ✅ Chatbot-Powered Nutrition Advice 🤖  Built with Next.js, Python (Flask/FastAPI), OpenAI API, and SQL Database for a seamless full-stack experience. 🚀
